@@ -1,5 +1,5 @@
 const path = require('path');
-const PATH = process.env.PORT || 3000
+const PATH = process.env.PORT || 3000;
 
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -50,7 +50,7 @@ mongoose
         user.save();
       }
     });
-    app.listen(PATH);
+    app.listen(PORT);
   })
   .catch(err => {
     console.log(err);
