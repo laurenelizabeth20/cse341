@@ -35,7 +35,7 @@ app.use(errorController.get404);
 
 mongoose
   .connect(
-    'mongodb+srv://new-user:Dstasl66@cluster0.jzlkh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+    'mongodb+srv://new-user:Dstasl66@cluster0.jzlkh.mongodb.net/Cluster0?retryWrites=true&w=majority'
   )
   .then(result => {
     User.findOne().then(user => {
