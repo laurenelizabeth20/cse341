@@ -1,0 +1,23 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+https://cse341-lauren.herokuapp.com/
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/laurenelizabeth20/cse341
+3. Briefly list and describe the elements of the application that are functioning. 
+This week adds use of cookies and sessions. It also authenticates the user and lets only logged in users see 
+certain pages.
+4. Briefly describe the "coolest" thing you learned while completing this assignment.
+I liked learning about encrypting passwords and making the website safe for users.
+5. If you could change this assignment to be more effective or helpful, what would you change?
+I cannot think of anything I would change for this assignment.
+6. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+7. Provide a brief justification (1-2 sentences) for selecting that category.
+5, I did my best following along and spent a lot of time this week looking into web security and authentication.
