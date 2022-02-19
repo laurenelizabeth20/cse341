@@ -6,10 +6,11 @@ https://cse341-lauren.herokuapp.com/
 2. Copy and paste the URL for your source code repository (e.g., GitHub):
 https://github.com/laurenelizabeth20/cse341
 3. Briefly list and describe the elements of the application that are functioning. 
-This week adds use of cookies and sessions. It also authenticates the user and lets only logged in users see 
-certain pages.
+This week adds validation, authentication, and error handling to sign up, login, resetting the password, 
+adding a new product, and editting a product.
 4. Briefly describe the "coolest" thing you learned while completing this assignment.
-I liked learning about encrypting passwords and making the website safe for users.
+I liked learning about validating data and using the validation to collect errors and improve user experience 
+with error handling.
 5. If you could change this assignment to be more effective or helpful, what would you change?
 I cannot think of anything I would change for this assignment.
 6. Please select the category you feel best describes your assignment:
@@ -20,4 +21,4 @@ I cannot think of anything I would change for this assignment.
    5 - Shows creativity and excels above and beyond requirements
 
 7. Provide a brief justification (1-2 sentences) for selecting that category.
-5, I did my best following along and spent a lot of time this week looking into web security and authentication.
+5, I did my best following along and spent a lot of time this week looking into error handling and validation.
